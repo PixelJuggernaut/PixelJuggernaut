@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psycho006develop)]([https://github.com/Psycho006Develop/lesterbot])
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psycho006develop&layout=compact)]([https://github.com/Psycho006Develop/lesterbot])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psycho006develop&lesterbot)]([https://github.com/Psycho006Develop/lesterbot])
