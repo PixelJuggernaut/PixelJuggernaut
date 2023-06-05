@@ -9,3 +9,7 @@
 ### My Projects
 
 [![LesterBot](https://github-readme-stats.vercel.app/api/pin/?username=psycho006develop&repo=lesterbot)]([https://github.com/Psycho006Develop/lesterbot])
+
+### Total time spent in Visual Studio (from 05.06.2023)
+
+[![Psycho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Psycho006Develop)](https://github.com/anuraghazra/github-readme-stats)
