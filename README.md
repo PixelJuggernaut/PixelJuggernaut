@@ -3,7 +3,7 @@
 At the moment I am not participating in any project or company, only mine works like Lester Bot and other stuff 
 
 - 🔭 I’m currently working on discord javascript bots
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: discord server https://discord.gg/pk8Ve68UEH
 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
