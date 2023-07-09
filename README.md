@@ -7,7 +7,7 @@ At the moment I am not participating in any project or company, only mine works 
 
   <img align="center" alt="Js" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-![PixelJuggernaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelJuggernaut&show_icons=true&theme=blue-green)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelJuggernaut)]([https://github.com/PixelJuggernaut/lesterbot])
+![PixelJuggernaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelJuggernaut&show_icons=true&theme=transparent)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelJuggernaut)]([https://github.com/PixelJuggernaut/lesterbot])
 
 ### My Projects
 
