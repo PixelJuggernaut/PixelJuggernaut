@@ -11,7 +11,7 @@ At the moment I am not participating in any project or company, only mine works 
 
 ### My Projects
 
-[![LesterBot](https://github-readme-stats.vercel.app/api/pin/?username=psycho006develop&repo=lesterbot)]([https://github.com/Psycho006Develop/lesterbot]) [![BleepBloop](https://github-readme-stats.vercel.app/api/pin/?username=psycho006develop&repo=suprabot-informations)]([https://github.com/Psycho006Develop/suprabot-informations])
+[![LesterBot](https://github-readme-stats.vercel.app/api/pin/?username=psycho006develop&repo=lesterbot)]([https://github.com/Psycho006Develop/lesterbot]) [![BleepBloop](https://github-readme-stats.vercel.app/api/pin/?username=psycho006develop&repo=bleep-bloop-bot)]([https://github.com/Psycho006Develop/bleep-bloop-bot])
 
 ### Time spent coding
 
