@@ -7,12 +7,13 @@ At the moment I am not participating in any project or company, only mine works 
 
   <img align="center" alt="Js" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-![PixelJuggernaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelJuggernaut&show_icons=true&theme=transparent)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelJuggernaut)]([https://github.com/PixelJuggernaut/lesterbot])
+![PixelJuggernaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelJuggernaut&show_icons=true&theme=transparent)      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelJuggernaut&theme=transparent)]([https://github.com/PixelJuggernaut/lesterbot])
 
 ### My Projects
 
-[![LesterBot](https://github-readme-stats.vercel.app/api/pin/?username=PixelJuggernaut&repo=lesterbot)]([https://github.com/PixelJuggernaut/lesterbot]) [![BleepBloop](https://github-readme-stats.vercel.app/api/pin/?username=PixelJuggernaut&repo=bleep-bloop-bot)]([https://github.com/PixelJuggernaut/bleep-bloop-bot])
+[![LesterBot](https://github-readme-stats.vercel.app/api/pin/?username=PixelJuggernaut&repo=lesterbot&theme=transparent)]([https://github.com/PixelJuggernaut/lesterbot]) [![BleepBloop](https://github-readme-stats.vercel.app/api/pin/?username=PixelJuggernaut&repo=bleep-bloop-bot&theme=transparent)]([https://github.com/PixelJuggernaut/bleep-bloop-bot])
 
 ### Time spent coding
 
-[![PixelJuggernaut's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Psycho006Develop)](https://github.com/PixelJuggernaut/lesterbot)
+[![PixelJuggernaut's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Psycho006Develop&theme=transparent)](https://github.com/PixelJuggernaut/lesterbot)
