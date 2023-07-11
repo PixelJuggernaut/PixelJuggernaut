@@ -5,7 +5,12 @@ At the moment I am not participating in any project or company, only mine works 
 - 🔭 I’m currently working on javascript open source projects
 - 📫 How to reach me: discord server https://discord.gg/pk8Ve68UEH
 
-  <img align="center" alt="Js" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+### Frameworks and Languages
+[![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
 
 ![PixelJuggernaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelJuggernaut&show_icons=true&theme=transparent)      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelJuggernaut&theme=transparent)]([https://github.com/PixelJuggernaut/lesterbot])
