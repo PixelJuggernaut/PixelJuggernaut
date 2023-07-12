@@ -5,6 +5,8 @@ At the moment I am not participating in any project or company, only mine works 
 - 🔭 I’m currently working on javascript open source projects
 - 📫 How to reach me: discord server https://discord.gg/pk8Ve68UEH
 
+![](https://komarev.com/ghpvc/?username=pixeljuggernaut&style=for-the-badge)
+
 ### Frameworks and Languages
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
