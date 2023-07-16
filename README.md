@@ -22,7 +22,7 @@ At the moment I am not participating in any project or company, only mine works 
 
 ### My Projects
 
-[![LesterBot](https://github-readme-stats.vercel.app/api/pin/?username=PixelJuggernaut&repo=lesterbot&theme=transparent)]([https://github.com/PixelJuggernaut/lesterbot]) [![BleepBloop](https://github-readme-stats.vercel.app/api/pin/?username=PixelJuggernaut&repo=bleep-bloop-bot&theme=transparent)]([https://github.com/PixelJuggernaut/bleep-bloop-bot])
+[![LesterBot](https://github-readme-stats.vercel.app/api/pin/?username=PixelJuggernaut&repo=frontend-codes&theme=transparent)]([https://github.com/PixelJuggernaut/frontend-codes]) [![BleepBloop](https://github-readme-stats.vercel.app/api/pin/?username=PixelJuggernaut&repo=bleep-bloop-bot&theme=transparent)]([https://github.com/PixelJuggernaut/bleep-bloop-bot])
 [![Javascript Scripts](https://github-readme-stats.vercel.app/api/pin/?username=PixelJuggernaut&repo=javascript-scripts&theme=transparent)]([https://github.com/PixelJuggernaut/javascript-scripts])
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pixeljuggernaut&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
