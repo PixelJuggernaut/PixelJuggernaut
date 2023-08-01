@@ -2,8 +2,12 @@
 
 At the moment I am not participating in any project or company, only mine works like Supra Bot and other stuff 
 
-- 🔭 I’m currently working on javascript open source projects
-- 📫 How to reach me: discord server https://discord.gg/pk8Ve68UEH
+- 🔭 I’m currently working on javascript open source projects and Supra Bot
+- 📫 How to reach me:
+- discord server https://discord.gg/pk8Ve68UEH
+- blog https://blog-pixeljuggernaut.vercel.app/
+- mail pixeljuggernaut@proton.me
+                        
 
 ![](https://komarev.com/ghpvc/?username=pixeljuggernaut&style=for-the-badge)
 
