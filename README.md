@@ -1,12 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=800&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=PixelJuggernaut;Web+and+app+developer;Using+HTML%2FCSS%2FJavascript)](https://git.io/typing-svg)
 
-At the moment I am not participating in any project or company, only mine works like Supra Bot and other stuff 
+At the moment I am not participating in any project or company, only my works like Balkan Outlaws SAMP server and other stuff 
 
-- 🔭 I’m currently working on javascript open source projects and Supra Bot
+- 🔭 I’m currently working on javascript open source websites
 - 📫 How to reach me:
 - discord server https://discord.gg/pk8Ve68UEH
 - blog https://blog-pixeljuggernaut.vercel.app/
 - mail pixeljuggernaut@proton.me
+- get your design 
                         
 
 ![](https://komarev.com/ghpvc/?username=pixeljuggernaut&style=for-the-badge)
