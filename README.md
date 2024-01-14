@@ -7,7 +7,7 @@ At the moment I am not participating in any project or company, only my works li
 - discord server https://discord.gg/pk8Ve68UEH
 - blog https://blog-pixeljuggernaut.vercel.app/
 - mail pixeljuggernaut@proton.me
-- get your design 
+- Hire me https://markovicdesigns.carrd.co/ 
                         
 
 ![](https://komarev.com/ghpvc/?username=pixeljuggernaut&style=for-the-badge)
