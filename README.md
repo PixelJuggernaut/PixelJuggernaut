@@ -2,7 +2,7 @@
 
 At the moment I am not participating in any project or company, only my hobby works and other stuff 
 
-- 🔭 I’m currently working on javascript open source websites
+- 🔭 I’m currently working on developing websites
 - 📫 How to reach me:
 - mail davidmarkovic628@gmail.com
 - website https://markovicdesigns.carrd.co/ 
